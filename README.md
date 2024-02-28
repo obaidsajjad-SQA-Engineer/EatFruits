@@ -23,7 +23,12 @@ EatFruits is a website that allows users to explore a wide range of fruits, read
 
 ## Screenshots
 
-!(screenshots/1.png)
+![img](ss/1.png)
+![img](ss/2.png)
+![img](ss/3.png)
+![img](ss/4.png)
+![img](ss/5.png)
+![img](ss/6.png)
 
 ## Pages
 
